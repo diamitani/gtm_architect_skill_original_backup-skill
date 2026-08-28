@@ -1,0 +1,29 @@
+{
+  "name": "gtm_architect_skill_original_backup",
+  "full_name": "gtm_architect_skill_original_backup-skill",
+  "category": "03-gtm-sales",
+  "description": "gtm_architect_skill_original_backup",
+  "source_file": "gtm-architect-SKILL-original-backup.md",
+  "created": "2026-08-28T17:21:19.850397",
+  "author": "diamitani",
+  "tags": [
+    "03_gtm_sales",
+    "ai_skill",
+    "agent_framework"
+  ],
+  "framework": {
+    "type": "SKILL.md",
+    "compliance": "PAL v2.0",
+    "intake_required": true,
+    "mcp_ready": false
+  },
+  "placeholders": {
+    "{{COMPANY_NAME}}": "Replace with your company name",
+    "{{COMPANY_SLUG}}": "Replace with company URL slug",
+    "{{USER_HOME}}": "User home directory path",
+    "{{N8N_INSTANCE_URL}}": "Your n8n instance URL",
+    "{{HUBSPOT_PORTAL_ID}}": "HubSpot portal ID",
+    "{{ADMIN_EMAIL}}": "Admin email address",
+    "{{MEETINGS_URL}}": "Calendar meetings URL"
+  }
+}
